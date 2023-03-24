@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFSlavesConsole", "CFSlavesConsole\CFSlavesConsole.csproj", "{47957D06-B612-4C19-9E5E-082D006CD0FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MavyAPI", "MavyAPI\MavyAPI.csproj", "{BAAF3447-D439-491C-9BD8-B94B315F2541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender", "MavyEmail\EmailSender.csproj", "{0716F257-72DD-41EF-8E79-54BA388E3AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47957D06-B612-4C19-9E5E-082D006CD0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47957D06-B612-4C19-9E5E-082D006CD0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47957D06-B612-4C19-9E5E-082D006CD0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47957D06-B612-4C19-9E5E-082D006CD0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAF3447-D439-491C-9BD8-B94B315F2541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAF3447-D439-491C-9BD8-B94B315F2541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAF3447-D439-491C-9BD8-B94B315F2541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAF3447-D439-491C-9BD8-B94B315F2541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0716F257-72DD-41EF-8E79-54BA388E3AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0716F257-72DD-41EF-8E79-54BA388E3AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0716F257-72DD-41EF-8E79-54BA388E3AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0716F257-72DD-41EF-8E79-54BA388E3AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

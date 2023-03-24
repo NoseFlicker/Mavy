@@ -1,0 +1,12 @@
+D:\General\Rider\CFSlaves\CFSlaves\bin\Debug\CFSlaves.exe.config
+D:\General\Rider\CFSlaves\CFSlaves\bin\Debug\CFSlaves.exe
+D:\General\Rider\CFSlaves\CFSlaves\bin\Debug\CFSlaves.pdb
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.csprojAssemblyReference.cache
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.Properties.Resources.resources
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.csproj.GenerateResource.cache
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.csproj.CoreCompileInputs.cache
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.exe
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.pdb
+D:\General\Rider\CFSlaves\CFSlaves\bin\Debug\SimpleIRCLib.dll
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.Form1.resources
+D:\General\Rider\CFSlaves\CFSlaves\obj\Debug\CFSlaves.csproj.CopyComplete

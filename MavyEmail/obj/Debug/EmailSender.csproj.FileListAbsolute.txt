@@ -1,0 +1,8 @@
+D:\General\Rider\CFSlaves\MavyEmail\bin\Debug\EmailSender.exe
+D:\General\Rider\CFSlaves\MavyEmail\bin\Debug\EmailSender.pdb
+D:\General\Rider\CFSlaves\MavyEmail\obj\Debug\EmailSender.csprojAssemblyReference.cache
+D:\General\Rider\CFSlaves\MavyEmail\obj\Debug\QiHe.MiscTools.EmailSender.MainForm.resources
+D:\General\Rider\CFSlaves\MavyEmail\obj\Debug\QiHe.CodeLib.FileBrower.resources
+D:\General\Rider\CFSlaves\MavyEmail\obj\Debug\EmailSender.csproj.GenerateResource.cache
+D:\General\Rider\CFSlaves\MavyEmail\obj\Debug\EmailSender.exe
+D:\General\Rider\CFSlaves\MavyEmail\obj\Debug\EmailSender.pdb

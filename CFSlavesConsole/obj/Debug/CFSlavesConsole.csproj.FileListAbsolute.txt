@@ -1,0 +1,6 @@
+D:\General\Rider\CFSlaves\CFSlavesConsole\obj\Debug\CFSlavesConsole.csprojAssemblyReference.cache
+D:\General\Rider\CFSlaves\CFSlavesConsole\bin\Debug\svchost.exe
+D:\General\Rider\CFSlaves\CFSlavesConsole\bin\Debug\svchost.pdb
+D:\General\Rider\CFSlaves\CFSlavesConsole\obj\Debug\svchost.exe
+D:\General\Rider\CFSlaves\CFSlavesConsole\obj\Debug\svchost.pdb
+D:\General\Rider\CFSlaves\CFSlavesConsole\obj\Debug\CFSlavesConsole.csproj.Fody.CopyLocal.cache

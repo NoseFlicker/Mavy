@@ -1,0 +1,5 @@
+D:\General\Rider\CFSlaves\MavyAPI\bin\Debug\MavyAPI.dll
+D:\General\Rider\CFSlaves\MavyAPI\bin\Debug\MavyAPI.pdb
+D:\General\Rider\CFSlaves\MavyAPI\obj\Debug\MavyAPI.csprojAssemblyReference.cache
+D:\General\Rider\CFSlaves\MavyAPI\obj\Debug\MavyAPI.dll
+D:\General\Rider\CFSlaves\MavyAPI\obj\Debug\MavyAPI.pdb
